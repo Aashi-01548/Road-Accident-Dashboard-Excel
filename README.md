@@ -24,7 +24,7 @@ The dashboard is built completely using **Microsoft Excel** with interactive fil
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Road_Accident Dashboard/dashboard_preview.png)
 
 ---
 
@@ -53,5 +53,6 @@ The dashboard is built completely using **Microsoft Excel** with interactive fil
 ## 📌 Author
 **Aashi Singh**  
 Aspiring Data Analyst
+
 
 
