@@ -50,13 +50,8 @@ The dashboard is built completely using **Microsoft Excel** with interactive fil
 
 ---
 
-## 🔗 Demo Video
-👉 Project working demo available on LinkedIn  
-(LinkedIn link will be added here)
-
----
-
 ## 📌 Author
 **Aashi Singh**  
 Aspiring Data Analyst
+
 
